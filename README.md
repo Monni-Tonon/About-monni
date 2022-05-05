@@ -25,9 +25,8 @@
   <img align="center" alt="mysql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="mongodb" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="cassandra" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1280px-Cassandra_logo.svg.png">
-  <img align="center" alt="gcp" height="120" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+  <img align="center" alt="gcp" height="120" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">                                             
   
-  <img align="center" alt="toad" height="70" width="90" src="https://1.bp.blogspot.com/-XfyvASksS6I/XxqH1YEFYsI/AAAAAAAAnvM/OCq9xjfNqhcBZOnLc5DG1sIaXZjdNJU0QCLcBGAsYHQ/s814/Blog%2B-%2Btoad%2Bfor%2Boracle.JPG">
   
 </div>
   
@@ -37,7 +36,7 @@
  
  <a href="https://www.linkedin.com/in/monnicy-tonon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:monnicy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/debarbegirl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
- <img align="right" alt="emocionada" height="200" style="border-radius:50px;" src="https://media0.giphy.com/media/3j8bQTB1c6OjSZQO4c/giphy.gif?cid=790b7611176f1431252b9bc56657a2eb2fbb3dc07a0c3a1f&rid=giphy.gif&ct=s">
+ <img align="right" alt="goodbye" height="200" style="border-radius:50px;" src="https://media0.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.webp?cid=ecf05e478vqa4ekqbb2bk086v9uj50xnqny2z5g9260racoy&rid=giphy.webp&ct=s">
 </div>
  
 </div>
