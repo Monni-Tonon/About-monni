@@ -1,7 +1,7 @@
 ### <img src="https://media4.giphy.com/media/LaFwBlzwUi0yoaFgJd/giphy.gif?cid=790b7611557b9814d4d854eaef94754a7edeb3f5721ef557&rid=giphy.gif&ct=s" width="90"> Monni!
 
  - 🎓 I'm a Data Engineer
- - 💘 Hooked by Technology 
+ - 💘 Technology 
  - ☁️ Studying Cloud Computing
  - 🌳 Nature Trail Lover
  - 🐱 Cat Lover
