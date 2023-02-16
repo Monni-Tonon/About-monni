@@ -2,7 +2,6 @@
 
  - 🎓 Always learning about technology
  - ❣️ Technology 
- - ☁️ Studying Cloud Computing
  - 🌳 Nature Lover
  - 🐱 Cat Lover
  - 🧳 Traveler
