@@ -1,10 +1,11 @@
 ### <img src="https://media4.giphy.com/media/LaFwBlzwUi0yoaFgJd/giphy.gif?cid=790b7611557b9814d4d854eaef94754a7edeb3f5721ef557&rid=giphy.gif&ct=s" width="90"> Monni!
 
- - 🎓 I'm a Data Engineer
- - 💘 Technology 
+ - 🎓 Always learning about technology
+ - ❣️ Technology 
  - ☁️ Studying Cloud Computing
  - 🌳 Nature Lover
  - 🐱 Cat Lover
+ - 🧳 Traveler
  
   
 ## 
@@ -25,7 +26,12 @@
   <img align="center" alt="mysql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="mongodb" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="cassandra" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1280px-Cassandra_logo.svg.png">
-  <img align="center" alt="gcp" height="120" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">                                             
+  <img align="center" alt="gcp" height="120" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+  <img align="center" alt="css" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+ <img align="center" alt="css" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+          
+          
   
   
 </div>
