@@ -3,7 +3,7 @@
  - 🎓 I'm a Data Engineer
  - 💘 Technology 
  - ☁️ Studying Cloud Computing
- - 🌳 Nature Trail Lover
+ - 🌳 Nature Lover
  - 🐱 Cat Lover
  
   
