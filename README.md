@@ -9,10 +9,11 @@
   
 ## 
 
-<div align="center">
+<div style="text-align: center;">
   <a href="https://github.com/Monni-Tonon">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Monni-Tonon&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monni-Tonon&layout=compact&langs_count=7&theme=highcontrast"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Monni-Tonon&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monni-Tonon&layout=compact&langs_count=7&theme=highcontrast"/>
+  </a>
 </div>
 
 ## Technologies
